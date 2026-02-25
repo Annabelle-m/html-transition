@@ -1,0 +1,71 @@
+/* --- PAGE TRANSITION https://developer.mozilla.org/fr/docs/Web/CSS/transition --- */
+.rectangle {
+    width: 700px;             
+    height: 150px;             
+    background-color: blue;    
+    color: white; 
+    font-size: 18px;               
+    display: flex;             
+    justify-content: center;   
+    align-items: center;       
+    margin: 20px auto;             
+    text-align: center;      
+}
+
+.rectangle.saut{
+    transition: color;  
+}
+
+.rectangle.transition {
+    transition-duration: 1s;
+}
+
+.rectangle:hover {
+    background-color: green;
+}
+
+
+
+/* --- EXERCICE SUR LES CERCLES */
+.container {
+    display: flex;
+    justify-content:  space-around;
+    margin: 100px;
+}
+
+.carre {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.carre:hover {
+    border-radius: 50%;
+    background-color: #00FCFD;
+}
+
+.cercle {
+    transition: border-radius 0.3s ease, background-color 2s;
+}
+
+.rond {
+    transition: border-radius 0.5s ease;
+}
+
+
+/* --- EXERCICE ZOOM SUR IMAGE --- */
+.zoom {
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.zoom img {
+    width: 15%;
+    transition: transform 0.5s ease;
+}
+
+.zoom img:hover {
+    transform: scale(2); 
+}
+
