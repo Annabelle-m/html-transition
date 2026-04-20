@@ -1,59 +1,59 @@
-## Objectif
+## Objective
 
-Ce projet a pour objectif de découvrir et expérimenter les transitions CSS afin de créer des animations fluides et améliorer l’expérience utilisateur.
-
----
-
-## Contexte
-
-Ce projet a été réalisé dans le cadre de ma formation pour approfondir mes compétences en CSS, notamment sur les animations et les transitions.
-L’objectif était de rendre une interface web plus dynamique et interactive.
+This project aims to discover and experiment with CSS transitions in order to create smooth animations and improve user experience.
 
 ---
 
-## Fonctionnalités
+## Context
 
-* Effets de transition au survol (hover)
-* Animations CSS fluides
-* Modification dynamique de styles (couleurs, tailles, rotations, etc.)
-* Amélioration de l’interactivité utilisateur
+This project was carried out as part of my training to deepen my skills in CSS, particularly in animations and transitions.  
+The objective was to make a web interface more dynamic and interactive.
 
 ---
 
-## Technologies utilisées
+## Features
+
+* Transition effects on hover
+* Smooth CSS animations
+* Dynamic modification of styles (colors, sizes, rotations, etc.)
+* Improvement of user interactivity
+
+---
+
+## Technologies Used
 
 * HTML5
 * CSS3 (transitions, transformations)
 
 ---
 
-## Compétences développées
+## Skills Developed
 
-* Utilisation des transitions CSS
-* Création d’animations simples
-* Amélioration de l’expérience utilisateur (UX)
-* Manipulation des propriétés CSS avancées (transform, transition)
-
----
-
-## Ce que j’ai appris
-
-* Rendre une interface plus dynamique
-* Comprendre le fonctionnement des transitions CSS
-* Créer des effets visuels fluides et modernes
+* Use of CSS transitions
+* Creation of simple animations
+* Improvement of user experience (UX)
+* Manipulation of advanced CSS properties (transform, transition)
 
 ---
 
-## Améliorations possibles
+## What I Learned
 
-* Ajouter des animations plus complexes (keyframes)
-* Intégrer JavaScript pour plus d’interactions
-* Optimiser les performances des animations
-* Créer une interface complète avec animations avancées
+* Making an interface more dynamic
+* Understanding how CSS transitions work
+* Creating smooth and modern visual effects
 
 ---
 
-## Auteur
+## Possible Improvements
 
-Annabelle
-GitHub : https://github.com/Annabelle-m
+* Add more complex animations (keyframes)
+* Integrate JavaScript for more interactions
+* Optimize animation performance
+* Create a complete interface with advanced animations
+
+---
+
+## Author
+
+Annabelle  
+GitHub: https://github.com/Annabelle-m
